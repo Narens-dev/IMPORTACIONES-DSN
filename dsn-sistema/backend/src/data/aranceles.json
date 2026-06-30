@@ -1,0 +1,75 @@
+[
+  {
+    "keywords": ["laptop", "computador", "notebook", "portatil"],
+    "partida": "8471.30",
+    "descripcion": "Computadores portatiles",
+    "tarifa": 0.05,
+    "tlcs": {
+      "ALIANZA_PACIFICO": 0.0,
+      "CAN": 0.02
+    }
+  },
+  {
+    "keywords": ["celular", "smartphone", "telefono", "movil"],
+    "partida": "8517.12",
+    "descripcion": "Telefonos moviles",
+    "tarifa": 0.05,
+    "tlcs": {
+      "ALIANZA_PACIFICO": 0.0
+    }
+  },
+  {
+    "keywords": ["tablet", "ipad", "tableta"],
+    "partida": "8471.41",
+    "descripcion": "Tabletas electronicas",
+    "tarifa": 0.05,
+    "tlcs": {
+      "ALIANZA_PACIFICO": 0.0,
+      "CAN": 0.02
+    }
+  },
+  {
+    "keywords": ["monitor", "pantalla", "display"],
+    "partida": "8528.52",
+    "descripcion": "Monitores para computador",
+    "tarifa": 0.08,
+    "tlcs": {}
+  },
+  {
+    "keywords": ["impresora", "printer", "plotter"],
+    "partida": "8443.31",
+    "descripcion": "Impresoras de inyeccion de tinta",
+    "tarifa": 0.10,
+    "tlcs": {
+      "CAN": 0.05
+    }
+  },
+  {
+    "keywords": ["servidor", "server", "proline", "proliant", "rack"],
+    "partida": "8471.50",
+    "descripcion": "Servidores y unidades de procesamiento",
+    "tarifa": 0.05,
+    "tlcs": {
+      "ALIANZA_PACIFICO": 0.0,
+      "CAN": 0.0
+    }
+  },
+  {
+    "keywords": ["router", "switch", "cisco", "red", "network", "equipo de red"],
+    "partida": "8517.62",
+    "descripcion": "Equipos de conmutacion y enrutamiento de redes",
+    "tarifa": 0.05,
+    "tlcs": {
+      "ALIANZA_PACIFICO": 0.0
+    }
+  },
+  {
+    "keywords": ["camara", "camera", "webcam", "vigilancia", "cctv"],
+    "partida": "8525.80",
+    "descripcion": "Camaras de video y vigilancia",
+    "tarifa": 0.15,
+    "tlcs": {
+      "CAN": 0.10
+    }
+  }
+]

@@ -1,0 +1,13 @@
+# Dependencias de Node
+node_modules/
+
+# Variables de entorno (contiene claves secretas, no debe subirse al repositorio)
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Directorio de sistema operativo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,26 @@
+{
+  "entidades_sancionadas": [
+    "Iran Network Co",
+    "Korea Trading LLC",
+    "Burma Exports",
+    "Syria Tech Group",
+    "Cuba Import Export SA",
+    "Crimea Logistics Ltd",
+    "North Korea Industrial Co"
+  ],
+  "paises_embargo": [
+    "Cuba",
+    "Iran",
+    "Irán",
+    "Corea del Norte",
+    "Myanmar",
+    "Siria",
+    "Syria",
+    "Rusia",
+    "Bielorrusia"
+  ],
+  "fuentes": {
+    "entidades": "OFAC SDN List (simulado para MVP)",
+    "paises": "ONU y OFAC Country Programs (simulado para MVP)"
+  }
+}
